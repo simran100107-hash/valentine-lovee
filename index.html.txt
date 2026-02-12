@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Valentine 💖</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container" id="quizBox">
+  <h2 id="question">Will you be my Valentine? 💘</h2>
+  <div id="options"></div>
+</div>
+
+<div id="heartContainer"></div>
+
+<script src="script.js"></script>
+</body>
+</html> 
